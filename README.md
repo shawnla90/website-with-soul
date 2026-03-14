@@ -11,6 +11,8 @@
   <a href="https://github.com/shawnla90/context-handoff-engine"><img src="https://img.shields.io/badge/companion-context--handoff--engine-blue" alt="companion: context-handoff-engine" /></a>
 </p>
 
+**[English](README.md)** | [中文](README.zh.md)
+
 ---
 
 ## The problem
